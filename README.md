@@ -6,7 +6,7 @@ Performance benchmarks for matrix multiplication implementations on NVIDIA Grace
 
 - **CPU**: ARM Neoverse V2 (Grace)
 - **GPU**: NVIDIA H200
-- **Matrix Size**: 4096 × 4096 × 4096
+- **Matrix Size**: 4096 × 4096
 - **Precision**: FP32 (single precision)
 - **Number of Runs**: 5
 
